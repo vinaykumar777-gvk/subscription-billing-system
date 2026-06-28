@@ -100,9 +100,9 @@ To test the payment flow without real charges, use the following test card detai
 ## 👨‍💻 Authors
 
 **Abhinay Reddy**
-**Aishwarya Pendota
+**Aishwarya Pendota**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiripuramAbhinayReddy)
+(https://github.com/SiripuramAbhinayReddy)
 (https://github.com/Aishwarya804)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siripuramabhinayreddy@gmail.com)
